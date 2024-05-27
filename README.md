@@ -79,8 +79,8 @@ chatbot_project/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/chatbot_project.git
-   cd chatbot_project
+   git clone https://github.com/raed1337/RAG_bot.git
+   cd RAG_bot
    ```
 
 2. **Install dependencies**:
