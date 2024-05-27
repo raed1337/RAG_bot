@@ -39,14 +39,14 @@ class ChatBot:
             # Step 2: Identify the user's request or problem
             user_input = input("You: ")
             identification = self.greeting_agent.greet(user_input=user_input)
-            print(f"Bot: {identification}")
+            logger.info(f"Bot: {identification}")
 
             if "problem" in identification.lower():
                 # Step 2: Identify the problem nature
                 identification = self.identification_agent.identify(
                     user_input=user_input
                 )
-                print(f"Bot: {identification}")
+                logger.info(f"Bot: {identification}")
 
                 if "absence" in identification.lower():
 
