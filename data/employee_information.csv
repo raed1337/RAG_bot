@@ -1,0 +1,11 @@
+employee_id,first_name,family_name,job_date,number_of_sanctions,number_of_days_off_taken,number_of_sick_days_taken,number_of_days_off_still_have,date_of_last_sick_day_taken,date_of_last_day_off_taken
+1,John,Smith,2012-05-10,4,11,13,4,2015-08-04,2015-05-10
+2,Jane,Doe,2020-04-30,1,24,13,2,2017-09-25,2014-05-05
+3,Alice,Johnson,2018-06-20,3,16,14,6,2017-02-25,2020-10-18
+4,Bob,Williams,2011-04-12,1,26,13,4,2013-09-25,2018-06-01
+5,Charlie,Brown,2022-02-13,3,26,2,8,2014-01-18,2012-10-18
+6,David,Jones,2019-06-07,4,9,11,6,2016-12-31,2019-06-24
+7,Eva,Garcia,2018-09-07,0,27,6,1,2012-02-15,2017-02-26
+8,Frank,Martinez,2017-12-29,3,27,3,3,2020-12-28,2020-07-10
+9,Grace,Davis,2010-05-11,1,15,8,8,2010-02-04,2014-02-09
+10,Hank,Rodriguez,2014-08-13,4,14,2,1,2018-08-19,2010-06-11
