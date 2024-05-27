@@ -23,6 +23,7 @@ chatbot_project/
 │   ├── __init__.py
 │   ├── state_tracker.py
 ├── main.py
+├── server.py
 ├── requirements.txt
 ├── Dockerfile
 ├── .env
@@ -114,7 +115,7 @@ chatbot_project/
 
 1. **Run the Application**:
    ```bash
-   uvicorn main:app --host 0.0.0.0 --port 8000
+   uvicorn server:app --host 0.0.0.0 --port 8000
    ```
 
 ## How It Works
